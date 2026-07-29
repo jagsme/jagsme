@@ -23,6 +23,3 @@ function init() {
                                             i = (i + 1) % roles.length;
                                               }
                                               }
-
-                                              }
-                                              
